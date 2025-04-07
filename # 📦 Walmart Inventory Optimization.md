@@ -5,7 +5,7 @@ This project analyzes Walmart's retail sales data to extract actionable insights
 ---
 
 ## 📁 Dataset
-- **Source:** Internal retail dataset (2012–2016)
+- **Source:** Internal retail dataset (2012–2016) (kaggle:https://www.kaggle.com/datasets/saadabdurrazzaq/walmart-retail-data?select=walmart+Retail+Data.xlsx)
 - **Format:** Excel (.xlsx)
 - **Features:** Order date, product category, sales, profit, order quantity, customer details, shipping mode, and more
 
