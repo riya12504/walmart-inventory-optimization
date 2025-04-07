@@ -84,6 +84,4 @@ Walmart-Inventory-Optimization/
 
 ---
 
-## 🔗 Connect with Me
-- 👩‍💻 [LinkedIn](https://www.linkedin.com/in/riyanaik07)
-- 💻 [More Projects on GitHub](https://github.com/riyanaik07)
+
